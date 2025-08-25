@@ -1,4 +1,4 @@
-package edu.clayton.csit.antlab.person;
+package src.main.java.edu.clayton.csit.antlab.person;
 
 /**
  *  A simple class for person 5
